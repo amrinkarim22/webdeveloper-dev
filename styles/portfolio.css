@@ -21,6 +21,7 @@
 
     color: #474747;
     font-weight: 400;
+    font-size: 45px;
 
 }
 
@@ -48,6 +49,27 @@
     border: 1px solid #FD6E0A;
     background-color: #FFF8F3;
     margin-left: 30px;
+}
+
+.section-title{
+
+    font-size: 35px;
+    font-weight: bold;
+    color:#181818;
+}
+
+.section-description{
+
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color:#757575;
+
+}
+
+.secondary-bg{
+
+    background-color: #FFF8F3;
 }
 
 /* header styles */
@@ -142,4 +164,50 @@ nav ul li a{
 
     width: 580px;
     height: 674px;
+}
+
+/* main styles */
+
+main{
+
+    max-width: 1140px;
+    margin: 0px auto;   
+    /* margin: 0px auto; This command is used is order to bring the content to the center of the page */
+}
+
+
+
+/* about section style */
+
+.about{
+    margin: 130px 0px;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+}
+
+.about-content{
+
+    background-color: #FFFFFF;
+    border: 1px solid #e0e0e0;
+    max-width: 827px;
+}
+
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+
+.item-title{
+
+    font-weight: 400;
+    font-size: 20px;
+    color:#757575;
+}
+
+.item-description{
+
+    font-weight: bold;
+    font-size: 20px;
+    color:#474747;
 }
