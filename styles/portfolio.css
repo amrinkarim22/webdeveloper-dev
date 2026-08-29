@@ -27,25 +27,25 @@
 
 .btn-primary{
      background-color: #FD6E0A;
-     width: 150px;
+     width: 165px;
      height: 64px;
      border-radius: 5px;
      border: none;
      color:white;
      font-weight: 400;
-     font-size: 20px;
+     font-size: 18px;
    
 
 }
 
 .btn-secondary{
 
-    width: 160px;
-    height: 61px;
+    width: 165px;
+    height: 64px;
     border-radius: 5px;
     color: #FD6E0A;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 18px;
     border: 1px solid #FD6E0A;
     background-color: #FFF8F3;
     margin-left: 30px;
